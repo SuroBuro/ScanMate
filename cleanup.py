@@ -4,7 +4,6 @@ from PIL import Image, ImageTk
 import threading
 import cv2
 import easyocr
-import os
 
 
 
